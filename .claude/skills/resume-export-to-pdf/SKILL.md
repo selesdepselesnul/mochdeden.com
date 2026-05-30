@@ -26,8 +26,8 @@ HTML = '/home/morrisseymarr/Playground/mochdeden.com/index.html'
 PDF  = '/home/morrisseymarr/Playground/mochdeden.com/resume.pdf'
 
 COMPACT_CSS = """<style id="print-compact">
-body { padding: 12px 12px 0 12px; line-height: 1.3; }
-.container { padding: 18px 22px 0 22px; }
+body { padding: 12px; line-height: 1.3; }
+.container { padding: 18px 22px; }
 section { margin: 0; padding: 0; }
 .title { margin-bottom: 0.4em; }
 .contact-info { margin-bottom: 0.6em; padding-bottom: 0.6em; }
