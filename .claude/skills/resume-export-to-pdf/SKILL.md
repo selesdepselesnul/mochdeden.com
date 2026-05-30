@@ -41,6 +41,7 @@ p { margin: 0.1em 0; }
 .job-meta { margin-bottom: 0.15em; }
 .company-link { margin-bottom: 0.1em; }
 article { margin: 0; }
+p:has(a[download]) { display: none; }
 </style>"""
 
 MEASURE_JS = """<script>
